@@ -27,7 +27,7 @@
      padding: 0;
      margin: 0;
      transition: all 1s;
-     animation: Roullete 12s linear 0.4s infinite;
+     animation: Roullete 10s linear 0.4s infinite;
  } 
 #cover{
     margin: auto;
